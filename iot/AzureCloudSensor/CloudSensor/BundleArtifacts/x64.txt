@@ -1,2 +1,0 @@
-MainPackage=C:\Users\valjac\Source\Repos\AzureCloudSensor\CloudSensor\bin\x64\Debug\CloudSensor_1.0.9.0_x64_Debug.appx
-SymbolPackage=C:\Users\valjac\Source\Repos\AzureCloudSensor\CloudSensor\AppPackages\CloudSensor_1.0.9.0_Debug_Test\CloudSensor_1.0.9.0_x64_Debug.appxsym
